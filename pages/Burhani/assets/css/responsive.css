@@ -1,0 +1,127 @@
+@media only screen and (max-width: 768px){
+    .navbar-default .navbar-nav>li>a {
+        padding: 9px !important;
+        padding-top: 18px !important;
+    }
+    .col-sm-6{
+        width: 64% !important;
+    }
+    .text{
+        width: 100% !important;
+        text-align: center !important;
+        margin-left: 30% !important;
+    }
+    .image{
+        margin-left: 44% !important;
+        width: 69% !important;
+    }
+    .image img{
+        width: 100% !important;
+    }
+    .arrow-down{
+        margin-left: 50% !important;
+        margin-top: 10% !important;
+    }
+    .arrow-down img{
+        width: 55% !important;
+    }
+}
+@media only screen and (max-width: 375px){
+    a.navbar-brand{
+        margin-top: -13% !important;
+    }
+    .bu-txt p{
+        font-size: 15px;
+    }
+    .bu-txt h1{
+        font-size: 1.7em;
+    }
+    .back-blue{
+        padding-top: 20%;
+    }
+    .text h1{
+        font-size: 1.8em;
+    }
+    .text{
+        margin-left: 0% !important;
+        text-align: left !important;
+    }
+    .text p{
+        font-size: 13px !important;
+    }
+    .col-sm-6{
+        padding-right: 0% !important;
+    }
+    .image img{
+        margin-bottom: 15%;
+    }
+}
+@media only screen and (max-width: 414px){
+    .bu-txt h1 {
+        font-size: 1.8em;
+    }
+    .back-blue{
+        padding-top: 20%;
+    }
+    .text{
+        text-align: left !important;
+        margin-left: 0% !important;
+    }
+    .col-sm-6{
+        width: 92% !important;
+    }
+    .text p{
+        font-size: ;
+    }
+    .image{
+        margin-left: 23% !important;
+    }
+    .image img{
+        margin-bottom: 10% !important;
+    }
+}
+@media only screen and (max-width: 375px){
+    .bu-txt h1{
+        font-size: 1.6em;
+    }
+}
+@media only screen and (max-width: 320px){
+    .bu-txt h1{
+        font-size: 1.3em;
+    }
+    .bu-txt p{
+        font-size: 12px;
+    }
+    .back-blue {
+        padding-top: 25%;
+    }
+    .bu-txt a{
+        margin-top: 33px;
+    }
+    .col-sm-6{
+        width: 91% !important;
+    }
+    .image{
+        margin-left: 18% !important;
+    }
+}
+@media only screen and (max-width: 411px){
+    .text{
+        margin-left: 0% !important;
+        text-align: left !important;
+    }
+    .col-sm-6{
+        width: 91% !important;
+    }
+    .image {
+        margin-left: 22% !important;
+    }
+}
+@media only screen and (max-width: 360px){
+    .bu-txt p{
+        font-size: 12px;
+    }
+    .bu-txt a{
+        margin-top: 20px;
+    }
+}
